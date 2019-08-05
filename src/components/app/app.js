@@ -20,6 +20,11 @@ const App = () => {
           path="/cart"
           component={CartPage}
           />
+      <Route render={() => (
+        <div className="jumbotron text-center">
+          <h2>404<br/>Page not found</h2>
+        </div>
+      )} />
       </Switch>
     </main>
   );
