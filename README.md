@@ -3,7 +3,7 @@
 ## Technologies
 React/React-Router/Redux
 
-**DEMO:** [react-store.tuychin.ru](https://react-store.tuychin.ru/)
+**DEMO:** [tuychin.ru/react-store](https://tuychin.ru/react-store)
 
 <br>
 <br>
